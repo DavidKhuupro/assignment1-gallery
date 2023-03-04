@@ -1,3 +1,11 @@
+/* 
+Lab - GitHub Cyclic
+Pushed to Github and Connected to Cyclic
+Please use following to test Cyclic URL
+
+https://david-khuu-lab2.cyclic.app/
+*/
+
 const HTTP_PORT = process.env.PORT || 3000;
 
 // use require to bring in necessary modules
