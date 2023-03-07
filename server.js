@@ -5,7 +5,6 @@ Please use following to test Cyclic URL
 
 https://david-khuu-lab2.cyclic.app/
 
-testing to see if there is instant update
 */
 
 const HTTP_PORT = process.env.PORT || 3000;
